@@ -3,3 +3,6 @@ ssl
 ssl_setup
 ssl.conf
 .env
+data.txt
+repo.zip
+ssl.zip
